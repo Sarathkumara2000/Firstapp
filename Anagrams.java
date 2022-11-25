@@ -20,7 +20,7 @@ public static void main(String[] args) {
 		System.out.println("anagrams");
 	}
 	else {
-		System.out.println("not anagrams");
+		System.out.println("not ");
 	}
 	
 	}
